@@ -52,7 +52,7 @@ export default function Home() {
             {
               title: "Premium Quality",
               description: "We source only the highest quality PVC materials from trusted manufacturers",
-              image: "https://ibb.co/hxgPxqCN"
+              image:"https://images.unsplash.com/photo-1581092160562-40aa08e78837?auto=format&fit=crop&q=80"
             },
             {
               title: "Expert Support",
