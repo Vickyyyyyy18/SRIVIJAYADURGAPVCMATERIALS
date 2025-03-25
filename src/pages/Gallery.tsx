@@ -26,10 +26,6 @@ export default function Gallery() {
       url: "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&q=80",
       title: "Quality Products"
     }
-    {
-    url:"https://ibb.co/hxgPxqCN",
-    title:"chai"
-  }
   ];
 
   return (
