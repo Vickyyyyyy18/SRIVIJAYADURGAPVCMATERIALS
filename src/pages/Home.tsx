@@ -52,13 +52,15 @@ export default function Home() {
             {
               title: "Premium Quality",
               description: "We source only the highest quality PVC materials from trusted manufacturers",
-              image: "https://images.unsplash.com/photo-1581092160562-40aa08e78837?auto=format&fit=crop&q=80"
+              image: "https://ibb.co/hxgPxqCN"
             },
             {
               title: "Expert Support",
               description: "Our team provides technical consultation and installation guidance",
               image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?auto=format&fit=crop&q=80"
             },
+
+      
             {
               title: "Wide Range",
               description: "Comprehensive selection of PVC pipes, fittings, and accessories",
