@@ -6,7 +6,7 @@ export default function Products() {
       category: "PVC Pipes",
       items: [
         {
-          name: "Agri PVC Pipes",
+          name: "Agriculture PVC Pipes",
           description: "Durable pipes for irrigation and agricultural applications",
           image: "https://images.unsplash.com/photo-1635348729202-7fb7b41f7ffa?auto=format&fit=crop&q=80"
         },
